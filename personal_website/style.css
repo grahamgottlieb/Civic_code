@@ -1,0 +1,67 @@
+body p {
+	font-color: white;
+	font-size: 1em;
+	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+body section ul{
+	text-align: left;
+	width:; 15%;
+	margin: 0 auto;
+	font-color: white;
+}
+
+#top-banner {
+	background-image: url('Photo.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#top-banner p {
+	text-align: center;
+	font-size: 3em;
+}
+
+#navigation {
+	height: 165px;
+	font-size: 100%;
+}
+
+#navigation ul {
+	height: 25px;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#navigation li {
+	display: block;
+}
+
+#navigation li {
+	height: 25px;
+	width: 140px;
+	padding: 8px 0;
+	float: left;
+	background-color: #000;
+	border-radius: 10px;
+	color: #cff;
+	text-align: centet;
+}
+
+#navigation li a{
+	text-decoration: none;
+	color: yellow;
+}
+
+#navigation li a:hover{
+	color: red;
+}
+
+#navigation li a:visited{
+	color: green;
+}
+
+#navigation li a:visited:hover{
+	color: red;
+}
