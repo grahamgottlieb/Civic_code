@@ -1,0 +1,19 @@
+#container {
+	background-color: gray;
+	width: 50%;
+	margin: 100px auto;
+}
+
+#container p{
+	font-family: "helvetica Neue", sans-serif;
+}
+
+a{
+	color: red;
+	text-decoration: none;
+}
+
+a:hover{
+	color:green;
+}
+
