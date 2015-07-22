@@ -4,5 +4,19 @@
   border: 3px solid blue;
   margin: 10px;
   padding: 20px;
-  background-color: orange;
+  background-color: white
+}
+
+.background_color {
+	background-color: orange;
+}
+
+.legal {
+  border: 1px;
+  margin: 5px;
+  padding: 20px;
+  font-size: 7px;
+  color: white;
+  line-height: 100%;
+  margin: auto;
 }
